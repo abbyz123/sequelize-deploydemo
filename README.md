@@ -1,0 +1,2 @@
+# sequelize-deploydemo
+sequelize demo
